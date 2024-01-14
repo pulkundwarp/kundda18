@@ -8,7 +8,7 @@
 
 <p align=center>
 
-<img align="center" height="220px" width="40" src="https://github.com/pulkundwarp/kundda18/blob/main/Analytics.jpg" alt="image" />
+<img align="center" height="360px" width="640px" src="https://github.com/pulkundwarp/kundda18/blob/main/Analytics.jpg" alt="image" />
 
 </a>
 </p>
