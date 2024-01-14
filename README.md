@@ -6,7 +6,6 @@
 
 <p align=center>
 
-<img height="25" src="https://visitor-badge.glitch.me/badge?page_id=pulkundwarp.visitor-badge&left_text=My%20Page%20Visitors"/>
 <img height="25" src="https://komarev.com/ghpvc/?username=pulkundwarp&color=blue"/>
 
 </a>
