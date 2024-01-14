@@ -43,7 +43,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/> </a> &nbsp;
-<a href="https://powerbi.microsoft.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Power_BI_logo.svg" alt="Power BI logo"></a> &nbsp;
+<a href="https://powerbi.microsoft.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Power_BI_logo.svg" alt="Power BI" width="40" height="40"></a> &nbsp;
 
  
 </div>
