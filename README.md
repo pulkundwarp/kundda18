@@ -2,6 +2,11 @@
 <h2 align="center">I'm Pranav Chandrakant Pulkundwar</h2>
 <h3 align="center"> A Driven Analytical Surfer 🏄🏻‍♂️</h3>
 <h3 align="center">I Unravel Mysteries You Didn't Realize Were Worth Exploring</h3>
+
+<a href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+
+
 <p align=center>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=pulkundwarp&color=blue"/>
@@ -28,10 +33,6 @@
 *  My off-the-clock hours are fueled by immersing myself in sports, exploring nature 🧗🏻‍♀️ both in reality & video games!
 
 * Connect with me to learn more about my experience and unlock your data's potential! 🤝
-
-<a href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
-<a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-
  
 </div>
  
