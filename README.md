@@ -3,7 +3,7 @@
 <h3 align="center"> A Driven Analytical Surfer 🏄🏻‍♂️</h3>
 <h3 align="center">I Unravel Mysteries You Didn't Realize Were Worth Exploring</h3>
 
-<a style="text-align: center" href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a style="place-items: center" href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 
 
