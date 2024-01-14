@@ -44,7 +44,7 @@
 <a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/> </a> &nbsp;
 <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"></a> &nbsp;
-<a href="https://www.tableau.com" target="_blank"><img src="https://www.tableau.com/sites/default/files/media/tableau-logo-rgb_500x.png" alt="Tableau logo" width="40" height="40"></a>
+<a href="https://www.tableau.com" target="_blank"><img src="https://en.m.wikipedia.org/wiki/Tableau_Software#/media/File%3ATableau_logo.svg" alt="Tableau logo" width="40" height="40"></a>
 
 </div>
 
