@@ -6,6 +6,8 @@
 
 <img height="25" src="https://komarev.com/ghpvc/?username=pulkundwarp&color=blue"/>
 
+</p>
+
 <img align="center" height="220px" src="https://github.com/pulkundwarp/kundda18/blob/main/Analytics.jpg" alt="image" />
 
 </a>
