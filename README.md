@@ -1,12 +1,12 @@
 <h2 align="center">Hi 🤘🏻</h2>
 <h2 align="center">I'm Pranav Chandrakant Pulkundwar</h2>
-<h3 align="center"> A Driven Analytical Surfer 🏄🏻‍♂️ I Unravel Mysteries You Didn't Realize Were Worth Exploring </h3>
-
+<h3 align="center"> A Driven Analytical Surfer 🏄🏻‍♂️</h3>
+<h3 align="center">I Unravel Mysteries You Didn't Realize Were Worth Exploring</h3>
 <p align=center>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=pulkundwarp&color=blue"/>
 
-</p>
+<p align=center>
 
 <img align="center" height="220px" src="https://github.com/pulkundwarp/kundda18/blob/main/Analytics.jpg" alt="image" />
 
