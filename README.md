@@ -37,16 +37,18 @@
 ## Languages and Tools
 
 <div>
-<a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a> &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/></a> &nbsp;
 <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"></a> &nbsp;
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="MS Excel" width="40" height="40"/></a> &nbsp;
 <a href="https://aws.amazon.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"></a> &nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" width="40" height="40"/> </a> &nbsp;
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
+<a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Cloud_logo_text.png" alt="Jupyter" width="70" height="40"/></a> &nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub" width="40" height="40"/></a> &nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/></a> &nbsp; 
+<a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" width="40" height="40"/></a> &nbsp; 
 
-
+https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg
 
 </div>
 
