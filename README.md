@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 🤘🏻</h2>
 <h2 align="center">I'm Pranav Chandrakant Pulkundwar</h2>
-<h3 align="center"> A Driven Analytical Surfer 🏄🏻‍♂️ I Unravel Mysteries You Didn't Realize Were Worth Exploring </h3>
+<h3 align="center"> A Driven Analytical Surfer 🏄🏻‍♂️  I Unravel Mysteries You Didn't Realize Were Worth Exploring </h3>
 
 <p align=center>
 
