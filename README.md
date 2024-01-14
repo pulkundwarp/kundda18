@@ -53,7 +53,7 @@
 
 ## My GitHub Summary
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkundwarp" alt="pulkundwarp" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkundwarp" alt="pulkundwarp" /></p>
 <br>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkundwarp&show_icons=true&locale=en&layout=compact" alt="pulkundwarp" /></p>
