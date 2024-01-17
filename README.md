@@ -54,7 +54,7 @@
 
 ## My GitHub Summary
 
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkundwarp&theme=dark&background=000000" alt="pulkundwarp" /></p>
+<p align=center><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkundwarp1" alt="adiag321" /></p>
 <br>
  
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkundwarp&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="pulkundwarp" /></p>
