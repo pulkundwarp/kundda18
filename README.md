@@ -18,8 +18,12 @@
 
 ## About Me
 
-<a href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
-<a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<p align="left">
+  <a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<p align="left">
+  <a href="https://github.com/pulkundwarp?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
 
 <div>
@@ -53,23 +57,6 @@
 </div>
 
 ## My GitHub Summary
-
-<p align=center>&nbsp;<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkundwarp" alt="pulkundwarp" /></p>
-<br>
- 
-<p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkundwarp&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="pulkundwarp" /></p>
-
-
-
-
-
-<p align="left">
-  <a href="https://github.com/pulkundwarp?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/pulkundwarp">
