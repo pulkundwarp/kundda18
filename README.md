@@ -18,8 +18,8 @@
 
 ## About Me
 
-<p align="left"><a href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
-<p align="left"><a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/pranav-pulkundwar/" target="blank">![linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a href="https://github.com/pulkundwarp?tab=repositories" target="blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <p align="left"><a href="https://github.com/pulkundwarp?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
 
