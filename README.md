@@ -9,7 +9,7 @@
 
 <p align=center>
 
-<img align="center" height="180px" width="320px" src="https://github.com/pulkundwarp/pulkundwarp/blob/main/GitHub/Analytics.jpg" alt="image" />
+<img align="center" height="270px" width="480px" src="https://github.com/pulkundwarp/pulkundwarp/blob/main/GitHub/Analytics.jpg" alt="image" />
 
 </a>
 </p>
