@@ -5,6 +5,9 @@
 
 <p align=center>
 
+<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=pulkundwarp&repo=github-visitors-badge&countColor=%237B1E"/>
+<img height="25" src="https://komarev.com/ghpvc/?username=pulkundwarp&color=blue&style=for-the-badge"/>
+
 <img height="25" src="https://komarev.com/ghpvc/?username=pulkundwarp&color=blue"/>
 
 <p align=center>
